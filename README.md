@@ -1,4 +1,4 @@
-# Python Project
+# Python Project (ENG)
 
 ## Description
 
@@ -21,7 +21,7 @@ This repository will be updated weekly with new projects, bug fixes, and code im
 
 
 
-# Projeto Python
+# Projeto Python (BR)
 
 ## Descrição
 
