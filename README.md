@@ -13,6 +13,8 @@ Currently, the following projects are available:
 2. **Email Validation and Sending Program:** Project that validates your email and sends the message typed in the terminal to the chosen recipient.
 
 3. **(Under Construction) Password Encryption Program:** Project involving encryption using the Python bcrypt library.
+   
+4. **(Under Translation) Project Ifood:** A Project similar to a restaurant app.
 
 ## Weekly Updates
 
@@ -36,6 +38,8 @@ Atualmente, os seguintes projetos estão disponíveis:
 2. **Programa de validação e envio de emails:** Projeto que valida o seu email e envia a mensagem digitada no terminal ao destinatário escolhido.
 
 3. **(Em construção) Programa de criptografia de senhas:** Projeto que envolve a criptografia com a biblioteca python bcrypt.
+
+4. **(Em tradução) Projeto Ifood:** Projeto que simula um aplicativo de restaurantes. 
 
 ## Atualizações Semanais
 
